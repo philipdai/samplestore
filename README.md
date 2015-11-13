@@ -1,1 +1,1 @@
-# samplestore
+# shoppingcartdemo

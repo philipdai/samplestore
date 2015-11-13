@@ -1,0 +1,31 @@
+{
+  "name": "shoppingcartdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipdai/shoppingcartdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipdai/shoppingcartdemo/issues"
+  },
+  "homepage": "https://github.com/philipdai/shoppingcartdemo#readme",
+  "dependencies": {
+    "harp": "^0.19.0"
+  },
+  "devDependencies": {
+    "angular-route": "^1.4.7",
+    "gulp-debug": "^2.1.2",
+    "gulp-inject": "^3.0.0",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-tslint": "^3.6.0",
+    "gulp-typescript": "^2.9.2"
+  }
+}
